@@ -1,0 +1,875 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MiniCart\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+
+msgid "Missing dependency"
+msgstr ""
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr ""
+
+msgid "Nonce error"
+msgstr ""
+
+msgid "User privilege error"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Open Customizer"
+msgstr ""
+
+msgid "Mini Cart"
+msgstr ""
+
+msgid "Sale Booster"
+msgstr ""
+
+msgid "License Info"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Skin Type"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Hide in Cart Page"
+msgstr ""
+
+msgid "if you enabled it, the mini cart doesn't show in cart page"
+msgstr ""
+
+msgid "Hide in Checkout Page"
+msgstr ""
+
+msgid "if you enabled it, the mini cart doesn't show in checkout page"
+msgstr ""
+
+msgid "Hide On Pages"
+msgstr ""
+
+msgid "You can choose page where you want to hide the cart button"
+msgstr ""
+
+msgid "Choose Pages"
+msgstr ""
+
+msgid "Don't show when cart empty"
+msgstr ""
+
+msgid "if you enabled it, the mini cart doesn't show when the cart is empty"
+msgstr ""
+
+msgid "Don't hide if there is undo button"
+msgstr ""
+
+msgid "if you enabled it, the mini cart will display if there any product removed from cart"
+msgstr ""
+
+msgid "Cart content show on each item add"
+msgstr ""
+
+msgid "if you enabled it, the mini cart item container will display on each cart add"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Click the button to add custom css"
+msgstr ""
+
+msgid "Add Custom CSS"
+msgstr ""
+
+msgid "Add Menu Item"
+msgstr ""
+
+msgid "if you enabled it, it will show in menu item"
+msgstr ""
+
+msgid "Choose Menu"
+msgstr ""
+
+msgid "Show Icon Only"
+msgstr ""
+
+msgid "if you enabled it, then WooCommerce add message will not be shown"
+msgstr ""
+
+msgid "Menu Title"
+msgstr ""
+
+msgid "It will show into header as title in cart"
+msgstr ""
+
+msgid "Menu Icon"
+msgstr ""
+
+msgid "Show Item Counter With Menu"
+msgstr ""
+
+msgid "Menu Counter Type"
+msgstr ""
+
+msgid "Total Item"
+msgstr ""
+
+msgid "Total Quantity"
+msgstr ""
+
+msgid "You can easily configure this using customizer, Click the button below to customize"
+msgstr ""
+
+msgid "To get shortcode or other information, please click the button below"
+msgstr ""
+
+msgid "View Info"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Button Settings"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Icon Size"
+msgstr ""
+
+msgid "Border Radius"
+msgstr ""
+
+msgid "Shadow Opacity"
+msgstr ""
+
+msgid "Bottom Margin"
+msgstr ""
+
+msgid "Left Margin"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Display In Animation"
+msgstr ""
+
+msgid "Display Out Animation"
+msgstr ""
+
+msgid "Hide Circle"
+msgstr ""
+
+msgid "if you enabled it, then circle counter of the top corner will be hide"
+msgstr ""
+
+msgid "Circle Counter Type"
+msgstr ""
+
+msgid "Footer Content"
+msgstr ""
+
+msgid "TOTAL ITEMS"
+msgstr ""
+
+msgid "TOTAL QUANTITIES"
+msgstr ""
+
+msgid "TOTAL AMOUNT"
+msgstr ""
+
+msgid "Amount Type"
+msgstr ""
+
+msgid "Sub Total"
+msgstr ""
+
+msgid "Cart Total"
+msgstr ""
+
+msgid "Container Settings"
+msgstr ""
+
+msgid "Container Height"
+msgstr ""
+
+msgid "Container Width"
+msgstr ""
+
+msgid "Title Text"
+msgstr ""
+
+msgid "Enable Cart Button"
+msgstr ""
+
+msgid "if you enabled it, View full cart button will be displayed into cart footer"
+msgstr ""
+
+msgid "Cart Button Text"
+msgstr ""
+
+msgid "It will show into the checkout button"
+msgstr ""
+
+msgid "Undo Remove Panel"
+msgstr ""
+
+msgid "if you enabled it, remove undo panel will be displayed into cart"
+msgstr ""
+
+msgid "Show Discount and Cart Total"
+msgstr ""
+
+msgid "if you enabled it, then discount and cart total will be displayed into cart"
+msgstr ""
+
+msgid "Show All Fees"
+msgstr ""
+
+msgid "if you enabled it, then shipping total, total fee, total tax will be displayed into cart"
+msgstr ""
+
+msgid "Show Coupon Input"
+msgstr ""
+
+msgid "if you enabled it then coupon input box will be show in cart"
+msgstr ""
+
+msgid "Applied Coupon Panel"
+msgstr ""
+
+msgid "if you enabled it then applied coupon panel will be displayed in cart"
+msgstr ""
+
+msgid "Enable Checkout Button"
+msgstr ""
+
+msgid "Checkout Button Text"
+msgstr ""
+
+msgid "Cart Empty Text"
+msgstr ""
+
+msgid "It will show into cart empty text"
+msgstr ""
+
+msgid "Mini Cart Drawer Pro For WooCommerce"
+msgstr ""
+
+msgid "Discount Rules"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Add New Rule"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Edit Rule"
+msgstr ""
+
+msgid "Loading Rule Details"
+msgstr ""
+
+msgid "Click here to get video list"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Are you sure to delete this Rule?"
+msgstr ""
+
+msgid "Right Margin"
+msgstr ""
+
+msgid "Message will be display when the target amount is greater then or equal $%{name}"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Loading Settings"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Offer Type"
+msgstr ""
+
+msgid "No rule added"
+msgstr ""
+
+msgid "Discounts Rules"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "Right Middle"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Drawer"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Left Middle"
+msgstr ""
+
+msgid "Floating"
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Shortcodes and other information"
+msgstr ""
+
+msgid "Current Value"
+msgstr ""
+
+msgid "If buyer spend $%{name} then he or she will get free shipping"
+msgstr ""
+
+msgid "This module is available in pro version"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Don't show WC add message"
+msgstr ""
+
+msgid "Dynamic discount has been disabled in your site"
+msgstr ""
+
+msgid "Click here"
+msgstr ""
+
+msgid "to add new menu"
+msgstr ""
+
+msgid "Currently there is no menu has been created."
+msgstr ""
+
+msgid "Total Video(s)"
+msgstr ""
+
+msgid "Deactivate License"
+msgstr ""
+
+msgid "Your License Key"
+msgstr ""
+
+msgid "License Expired on"
+msgstr ""
+
+msgid "Support Expired on"
+msgstr ""
+
+msgid "License Type"
+msgstr ""
+
+msgid "License Status"
+msgstr ""
+
+msgid "Discount Amount"
+msgstr ""
+
+msgid "Percentage %"
+msgstr ""
+
+msgid "Discount Type"
+msgstr ""
+
+msgid "Free Shipping"
+msgstr ""
+
+msgid "When the message display on the screen, Message like, Spend more xx amount to get xx discount, It must be lower then target amount ."
+msgstr ""
+
+msgid "Target cart amount, if the cart amount greater then or equals to this amount then buyer will get offer."
+msgstr ""
+
+msgid "Display Amount"
+msgstr ""
+
+msgid "Target Amount"
+msgstr ""
+
+msgid "if you enabled it, discount info bar show in your site directly"
+msgstr ""
+
+msgid "Show Discount Bar In Site"
+msgstr ""
+
+msgid "Discount Bar Settings"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid "Complete Color"
+msgstr ""
+
+msgid "Progressbar Background"
+msgstr ""
+
+msgid "Choose Custom Color"
+msgstr ""
+
+msgid "if you enabled it, discount info bar show in mini cart drawer"
+msgstr ""
+
+msgid "Show in Mini Cart"
+msgstr ""
+
+msgid "Message in Mini Cart Settings"
+msgstr ""
+
+msgid "calculate_amount is for display calculated (target amount - current cart amount) amount value"
+msgstr ""
+
+msgid "Free Shipping Message"
+msgstr ""
+
+msgid "calculate_amount is for display calculated (target amount-current cart amount) amount value, offer_value is for discount value"
+msgstr ""
+
+msgid "Discount Message Amount"
+msgstr ""
+
+msgid "Discount Label"
+msgstr ""
+
+msgid "if you enabled it, then dynamic discount will be disabled when a buyer added coupon code in cart"
+msgstr ""
+
+msgid "if you enabled it, then dynamic discount rule will be applied in cart"
+msgstr ""
+
+msgid "Enable Dynamic Discount"
+msgstr ""
+
+msgid "Dynamic Discounts Settings"
+msgstr ""
+
+msgid "Choose page for hide"
+msgstr ""
+
+msgid "Disable On Coupon"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "base amount is required"
+msgstr ""
+
+msgid "view amount is required"
+msgstr ""
+
+msgid "Cart Shadow Opacity"
+msgstr ""
+
+msgid "Cart Border Radius"
+msgstr ""
+
+msgid "Empty Cart Icon"
+msgstr ""
+
+msgid "Customizer"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "View Details"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Unlock it"
+msgstr ""
+
+msgid "Click Here"
+msgstr ""
+
+msgid "Elite Licenser is a versatile WordPress plugin that handles product licensing, updates, license code generation, Envato license verification, full license control, and offers a comprehensive API for seamless integration with various applications."
+msgstr ""
+
+msgid "The Best Support Ticketing Software For Your Business! Best Support System, Best by name, Best by nature, Best by feature, it is a self-hosted customer support desk software. It handles support tickets, manages email tickets, collects any payment by PayPal."
+msgstr ""
+
+msgid "Vitepos is a very fast and reliable point of sale (POS) plugin, Its fully responsive (mobile, tablet, laptop,desktop,large screen). It has been developed very latest technology also followed woocommerce development code standard."
+msgstr ""
+
+msgid "Loading Data..."
+msgstr ""
+
+msgid "is for display calculated (target amount-current cart amount) amount value"
+msgstr ""
+
+msgid "is for discount value"
+msgstr ""
+
+msgid "is for display calculated (target amount - current cart amount) amount value"
+msgstr ""
+
+msgid "%{fld_name} is required"
+msgstr ""
+
+msgid "Please"
+msgstr ""
+
+msgid "to know the details about the product"
+msgstr ""
+
+msgid "Loading Customizer..."
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Pro Version"
+msgstr ""
+
+msgid "To unlock these features, you need"
+msgstr ""
+
+msgid "You will get these features in pro version"
+msgstr ""
+
+msgid "Apply Coupon box can be displayed in mini cart"
+msgstr ""
+
+msgid "Applied Coupon box can be displayed in cart"
+msgstr ""
+
+msgid "You will get the wonderful Module called"
+msgstr ""
+
+msgid "You will get premium support"
+msgstr ""
+
+msgid "Save Hide Pages"
+msgstr ""
+
+msgid "Save Custom CSS"
+msgstr ""
+
+msgid "You can attract your customers to purchase more items by offering many dynamic discounts, you can offer to your customer like, if you spend 20USD, then you will get 2USD discount."
+msgstr ""
+
+msgid "Valid"
+msgstr ""
+
+msgid "Invalid"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "License code"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Loading License Info..."
+msgstr ""
+
+msgid "Enter your license key here, to activate the product, and get full feature updates and premium support."
+msgstr ""
+
+msgid "Have a coupon?"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "item"
+msgstr ""
+
+msgid "items"
+msgstr ""
+
+msgid "quantities"
+msgstr ""
+
+msgid "quantity"
+msgstr ""
+
+msgid "Enter coupon code"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Removed"
+msgstr ""
+
+msgid "Email already exist."
+msgstr ""
+
+msgid "Username already exist."
+msgstr ""
+
+msgid "Contact no already exist."
+msgstr ""
+
+msgid "This email already exist"
+msgstr ""
+
+msgid "This username already exist"
+msgstr ""
+
+msgid "This mobile number is already exist"
+msgstr ""
+
+msgid "Email already exist"
+msgstr ""
+
+msgid "Username already exist"
+msgstr ""
+
+msgid "Role does not exists"
+msgstr ""
+
+msgid "Items empty"
+msgstr ""
+
+msgid "You can not order less than 0 amount"
+msgstr ""
+
+msgid "Paid amount must be greater or equal to grand total amount"
+msgstr ""
+
+msgid "You do not have permission to give discount"
+msgstr ""
+
+msgid "You can not give this much discount"
+msgstr ""
+
+msgid "You do not have permission to have fees"
+msgstr ""
+
+#, php-format
+msgid "%s out of stock"
+msgstr ""
+
+msgid "No offline outlet and counter found"
+msgstr ""
+
+msgid "Fee"
+msgstr ""
+
+msgid "Order successfully sent to kitchen"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Empty order id"
+msgstr ""
+
+msgid "You can not checkout this in current status"
+msgstr ""
+
+msgid "Order successfully completed"
+msgstr ""
+
+msgid "Order already in completed status, it is not cancelable"
+msgstr ""
+
+msgid "Order cancellation is not possible"
+msgstr ""
+
+msgid "Order not found"
+msgstr ""
+
+msgid "Order requires payment process"
+msgstr ""
+
+msgid "Stripe configuration error in server"
+msgstr ""
+
+msgid "Empty intend id"
+msgstr ""
+
+msgid "Payment data missing"
+msgstr ""
+
+msgid "Placeholder"
+msgstr ""
+
+msgid "No change for update"
+msgstr ""
+
+msgid "Saved Successfully"
+msgstr ""
+
+msgid "Successfully removed"
+msgstr ""
+
+msgid "Cart item remove failed"
+msgstr ""
+
+msgid "ID & Qty both are required"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Successfully updated"
+msgstr ""
+
+msgid "Cart item update failed"
+msgstr ""
+
+msgid "Cart item info not found"
+msgstr ""
+
+msgid "ID is required"
+msgstr ""
+
+msgid "Unknown Error"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr ""
+
+msgid "Product is not purchasable"
+msgstr ""
+
+#, php-format
+msgid "You cannot add that amount of &quot;%1$s&quot; to the cart because there is not enough stock (%2$s remaining)."
+msgstr ""
+
+msgid "Unknown error-393"
+msgstr ""
+
+#, php-format
+msgid "%s should be digit"
+msgstr ""
+
+#, php-format
+msgid "%s should be numeric"
+msgstr ""
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr ""
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr ""
+
+msgid " should be hexadecimal"
+msgstr ""
+
+#, php-format
+msgid " %s are required"
+msgstr ""
+
+#, php-format
+msgid " %s is required"
+msgstr ""
+
+msgid "E004"
+msgstr ""

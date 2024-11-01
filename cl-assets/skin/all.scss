@@ -1,0 +1,34 @@
+.apbd-mini-cart-color {
+  @import "variables/main_colors";
+  @import "variables/color_root";
+  &.apbd-mc-color-default {
+    @import "color-default";
+  }
+  &.apbd-mc-color-black {
+    @import "color-black";
+  }
+  &.apbd-mc-color-cyan {
+    @import "color-cyan";
+  }
+  &.apbd-mc-color-gray {
+    @import "color-gray";
+  }
+  &.apbd-mc-color-green {
+    @import "color-green";
+  }
+  &.apbd-mc-color-orange {
+    @import "color-orange";
+  }
+  &.apbd-mc-color-pink {
+    @import "color-pink";
+  }
+  &.apbd-mc-color-purple {
+    @import "color-purple";
+  }
+  &.apbd-mc-color-red {
+    @import "color-red";
+  }
+  &.apbd-mc-color-violet {
+    @import "color-violet";
+  }
+}

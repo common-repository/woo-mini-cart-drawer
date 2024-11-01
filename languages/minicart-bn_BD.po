@@ -1,0 +1,970 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MiniCart\n"
+"POT-Creation-Date: 2024-03-19 09:08+0000\n"
+"PO-Revision-Date: 2024-04-03 06:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: বাংলা\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;"
+"AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.7; wp-6.5"
+
+#, php-format
+msgid " %s are required"
+msgstr "%s এর প্রয়োজন"
+
+#, php-format
+msgid " %s is required"
+msgstr "%s এর প্রয়োজন"
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr "%s %s-এর থেকে কম হওয়া উচিত"
+
+msgid " should be hexadecimal"
+msgstr "হেক্সাডেসিমেল হওয়া উচিত"
+
+#, php-format
+msgid "%s out of stock"
+msgstr "%s স্টক নেই"
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr "%s একটি বৈধ ইমেল ঠিকানা হওয়া উচিত"
+
+#, php-format
+msgid "%s should be digit"
+msgstr "%s এর সংখ্যা হওয়া উচিত"
+
+#, php-format
+msgid "%s should be numeric"
+msgstr "%s সংখ্যাসূচক হওয়া উচিত"
+
+msgid "%{fld_name} is required"
+msgstr "%{fld_name} প্রয়োজন"
+
+msgid "Activate"
+msgstr "সক্রিয় করুন"
+
+msgid "Active"
+msgstr "সক্রিয়"
+
+msgid "Add Custom CSS"
+msgstr "কাস্টম সিএসএস যোগ করুন"
+
+msgid "Add Menu Item"
+msgstr "মেনু আইটেম যোগ করুন"
+
+msgid "Add New Rule"
+msgstr "নতুন নিয়ম যোগ করুন"
+
+msgid "Amount Type"
+msgstr "পরিমাণের ধরন"
+
+msgid "Applied Coupon box can be displayed in cart"
+msgstr "অ্যাপ্লায়েড কুপন বক্স কার্টে প্রদর্শিত হতে পারে"
+
+msgid "Applied Coupon Panel"
+msgstr "এপলাইড কুপন প্যানেল"
+
+msgid "Apply"
+msgstr "এপলাই"
+
+msgid "Apply Coupon box can be displayed in mini cart"
+msgstr "কুপন বক্স প্রয়োগ মিনি কার্টে প্রদর্শিত হতে পারে"
+
+msgid "Are you sure to delete this Rule?"
+msgstr "আপনি এই নিয়ম মুছে ফেলার বিষয়ে নিশ্চিত?"
+
+msgid "Back"
+msgstr "পেছনে"
+
+msgid "base amount is required"
+msgstr "ভিত্তি পরিমাণ প্রয়োজন"
+
+msgid "Border Radius"
+msgstr "সীমানা ব্যাসার্ধ"
+
+msgid "Bottom"
+msgstr "নীচে"
+
+msgid "Bottom Margin"
+msgstr "নিচের মার্জিন"
+
+msgid "Button Settings"
+msgstr "বোতাম সেটিংস"
+
+msgid ""
+"calculate_amount is for display calculated (target amount - current cart "
+"amount) amount value"
+msgstr ""
+"calculate_amount হল গণনা করা প্রদর্শনের জন্য (target amount - বর্তমান "
+"কার্টের পরিমাণ) পরিমাণ মান"
+
+msgid ""
+"calculate_amount is for display calculated (target amount-current cart "
+"amount) amount value, offer_value is for discount value"
+msgstr ""
+"calculate_amount হল গণনা করা (target amount-বর্তমান কার্টের পরিমাণ) পরিমাণের "
+"মান প্রদর্শনের জন্য, offer_value হল ডিসকাউন্ট মানের জন্য"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Cart Border Radius"
+msgstr "কার্ট বর্ডার ব্যাসার্ধ"
+
+msgid "Cart Button Text"
+msgstr "কার্ট বাটন টেক্স"
+
+msgid "Cart content show on each item add"
+msgstr "প্রতিটি আইটেম যোগ কার্ট বিষয়বস্তু প্রদর্শন"
+
+msgid "Cart Empty Text"
+msgstr "কার্ট খালি টেক্স"
+
+msgid "Cart item info not found"
+msgstr "কার্ট আইটেম তথ্য পাওয়া যায়নি"
+
+msgid "Cart item remove failed"
+msgstr "কার্ট আইটেম অপসারণ ব্যর্থ হয়েছে"
+
+msgid "Cart item update failed"
+msgstr "কার্ট আইটেম আপডেট ব্যর্থ হয়েছে"
+
+msgid "Cart Shadow Opacity"
+msgstr "কার্ট শ্যাডো অস্বচ্ছতা"
+
+msgid "Cart Total"
+msgstr "কার্ট টোটাল"
+
+msgid "Checkout Button Text"
+msgstr "চেকআউট বাটন টেক্স"
+
+msgid "Choose Custom Color"
+msgstr "কাস্টম রঙ নির্বাচন করুন"
+
+msgid "Choose Menu"
+msgstr "মেনু নির্বাচন করুন"
+
+msgid "Choose page for hide"
+msgstr "লুকানোর জন্য পৃষ্ঠা বেছে নিন"
+
+msgid "Choose Pages"
+msgstr "পৃষ্ঠাগুলি চয়ন করুন"
+
+msgid "Circle Counter Type"
+msgstr "সার্কেল কাউন্টার টাইপ"
+
+msgid "Click Here"
+msgstr "এখানে ক্লিক করুন"
+
+msgid "Click here"
+msgstr "এখানে ক্লিক করুন"
+
+msgid "Click here to get video list"
+msgstr "ভিডিও তালিকা পেতে এখানে ক্লিক করুন"
+
+msgid "Click the button to add custom css"
+msgstr "কাস্টম সিএসএস যোগ করতে বাটন ক্লিক করুন"
+
+msgid "Close"
+msgstr "বন্ধ"
+
+msgid "Color"
+msgstr "রঙ"
+
+msgid "Complete Color"
+msgstr "সম্পূর্ণ রঙ"
+
+msgid "Contact no already exist."
+msgstr "পরিচিতি আগে থেকেই নেই।"
+
+msgid "Container Height"
+msgstr "কন্টেইনারের উচ্চতা"
+
+msgid "Container Settings"
+msgstr "কন্টেইনারের সেটিংস"
+
+msgid "Container Width"
+msgstr "কন্টেইনারের প্রস্থ"
+
+msgid "Current Value"
+msgstr "বর্তমান মূল্য"
+
+msgid "Currently there is no menu has been created."
+msgstr "বর্তমানে কোনো মেনু তৈরি করা হয়নি।"
+
+msgid "Custom CSS"
+msgstr "কাস্টম সিএসএস"
+
+msgid "Customizer"
+msgstr "কাস্টমাইজার"
+
+msgid "Deactivate License"
+msgstr "লাইসেন্স নিষ্ক্রিয় করুন"
+
+msgid "Default"
+msgstr "ডিফল্ট"
+
+msgid "Delete"
+msgstr "মুছে ফেলা"
+
+msgid "Details"
+msgstr "বিস্তারিত"
+
+msgid "Disable On Coupon"
+msgstr "কুপনে নিষ্ক্রিয় করুন"
+
+msgid "Discount"
+msgstr "ছাড়"
+
+msgid "Discount Amount"
+msgstr "হ্রাসকৃত মুল্য"
+
+msgid "Discount Bar Settings"
+msgstr "ডিসকাউন্ট বার সেটিংস"
+
+msgid "Discount Label"
+msgstr "ডিসকাউন্ট লেবেল"
+
+msgid "Discount Message Amount"
+msgstr "ডিসকাউন্ট বার্তা পরিমাণ"
+
+msgid "Discount Rules"
+msgstr "ছাড়ের নিয়ম"
+
+msgid "Discount Type"
+msgstr "ডিসকাউন্ট টাইপ"
+
+msgid "Discounts Rules"
+msgstr "ছাড়ের নিয়ম"
+
+msgid "Display Amount"
+msgstr "প্রদর্শনের পরিমাণ"
+
+msgid "Display In Animation"
+msgstr "অ্যানিমেশনে প্রদর্শন"
+
+msgid "Display Out Animation"
+msgstr "ডিসপ্লে আউট অ্যানিমেশন"
+
+msgid "Don't hide if there is undo button"
+msgstr "আনডু বোতাম থাকলে লুকাবেন না"
+
+msgid "Don't show WC add message"
+msgstr "WC অ্যাড মেসেজ দেখাবেন না"
+
+msgid "Don't show when cart empty"
+msgstr "কার্ট খালি হলে দেখাবেন না"
+
+msgid "Done"
+msgstr "সম্পন্ন"
+
+msgid "Drawer"
+msgstr "ড্রয়ার"
+
+msgid "Dynamic discount has been disabled in your site"
+msgstr "আপনার সাইটে ডায়নামিক ডিসকাউন্ট অক্ষম করা হয়েছে"
+
+msgid "Dynamic Discounts Settings"
+msgstr "ডায়নামিক ডিসকাউন্ট সেটিংস"
+
+msgid "E004"
+msgstr "E004"
+
+msgid "Edit Rule"
+msgstr "নিয়ম সম্পাদনা করুন"
+
+msgid ""
+"Elite Licenser is a versatile WordPress plugin that handles product "
+"licensing, updates, license code generation, Envato license verification, "
+"full license control, and offers a comprehensive API for seamless "
+"integration with various applications."
+msgstr ""
+"এলিট লাইসেন্সার হল একটি বহুমুখী ওয়ার্ডপ্রেস প্লাগইন যা পণ্যের লাইসেন্সিং, "
+"আপডেট, লাইসেন্স কোড জেনারেশন, এনভাটো লাইসেন্স যাচাইকরণ, সম্পূর্ণ লাইসেন্স "
+"নিয়ন্ত্রণ পরিচালনা করে এবং বিভিন্ন অ্যাপ্লিকেশনের সাথে বিরামবিহীন একীকরণের "
+"জন্য একটি ব্যাপক API অফার করে।"
+
+msgid "Email Address"
+msgstr "ইমেইল ঠিকানা"
+
+msgid "Email already exist"
+msgstr "ইমেলটি ইতিমধ্যেটই আছে"
+
+msgid "Email already exist."
+msgstr "ইমেলটি ইতিমধ্যেটই আছে."
+
+msgid "Empty Cart Icon"
+msgstr "খালি কার্ট আইকন"
+
+msgid "Empty intend id"
+msgstr "খালি উদ্দেশ্য আইডি"
+
+msgid "Empty order id"
+msgstr "খালি অর্ডার আইডি"
+
+msgid "Enable Cart Button"
+msgstr "কার্ট বাটন সক্ষম করুন"
+
+msgid "Enable Checkout Button"
+msgstr "চেকআউট বাটন সক্ষম করুন৷"
+
+msgid "Enable Dynamic Discount"
+msgstr "ডাইনামিক ডিসকাউন্ট সক্ষম করুন"
+
+msgid "Enter coupon code"
+msgstr "কুপন এর কোডটি প্রবেশ করান"
+
+msgid ""
+"Enter your license key here, to activate the product, and get full feature "
+"updates and premium support."
+msgstr ""
+"পণ্যটি সক্রিয় করতে এখানে আপনার লাইসেন্স কী লিখুন এবং সম্পূর্ণ বৈশিষ্ট্য "
+"আপডেট এবং প্রিমিয়াম সমর্থন পান।"
+
+msgid "Failed"
+msgstr "ব্যর্থ"
+
+msgid "Fee"
+msgstr "ফি"
+
+msgid "Fixed"
+msgstr "স্থির"
+
+msgid "Floating"
+msgstr "ভাসমান"
+
+msgid "Footer Content"
+msgstr "ফুটার সামগ্রী"
+
+msgid "Free Shipping"
+msgstr "বিনামূল্যে পরিবহন"
+
+msgid "Free Shipping Message"
+msgstr "বিনামূল্যে শিপিং বার্তা"
+
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+msgid "Have a coupon?"
+msgstr "একটি কুপন আছে?"
+
+msgid "Hide Circle"
+msgstr "বৃত্ত লুকান"
+
+msgid "Hide in Cart Page"
+msgstr "কার্ট পাতায় লুকান"
+
+msgid "Hide in Checkout Page"
+msgstr "চেকআউট পৃষ্ঠায় লুকান"
+
+msgid "Hide On Pages"
+msgstr "পাতায় লুকান"
+
+msgid "Icon"
+msgstr "আইকন"
+
+msgid "Icon Size"
+msgstr "আইকনের আকার"
+
+msgid "ID & Qty both are required"
+msgstr "আইডি এবং পরিমাণ উভয়ই প্রয়োজন"
+
+msgid "ID is required"
+msgstr "আইডি প্রয়োজন"
+
+msgid "If buyer spend $%{name} then he or she will get free shipping"
+msgstr "ক্রেতা যদি $%{name} খরচ করে তাহলে সে বিনামূল্যে শিপিং পাবে"
+
+msgid "if you enabled it then applied coupon panel will be displayed in cart"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন তবে প্রয়োগকৃত কুপন প্যানেল কার্টে প্রদর্শিত হবে"
+
+msgid "if you enabled it then coupon input box will be show in cart"
+msgstr "যদি আপনি এটি সক্রিয় করেন তাহলে কুপন ইনপুট বক্স কার্টে প্রদর্শিত হবে"
+
+msgid "if you enabled it, discount info bar show in mini cart drawer"
+msgstr "যদি আপনি এটি সক্ষম করেন, ডিসকাউন্ট তথ্য বার মিনি কার্ট ড্রয়ারে দেখায়"
+
+msgid "if you enabled it, discount info bar show in your site directly"
+msgstr "আপনি যদি এটি সক্ষম করেন, ডিসকাউন্ট তথ্য বার সরাসরি আপনার সাইটে দেখায়"
+
+msgid "if you enabled it, it will show in menu item"
+msgstr "আপনি যদি এটি সক্ষম করেন তবে এটি মেনু আইটেমে দেখাবে"
+
+msgid "if you enabled it, remove undo panel will be displayed into cart"
+msgstr ""
+"যদি আপনি এটি সক্ষম করেন, তাহলে পূর্বাবস্থায় সরিয়ে ফেলা প্যানেল কার্টে "
+"প্রদর্শিত হবে"
+
+msgid "if you enabled it, the mini cart doesn't show in cart page"
+msgstr "যদি আপনি এটি সক্ষম করেন, মিনি কার্ট কার্ট পৃষ্ঠায় দেখায় না৷"
+
+msgid "if you enabled it, the mini cart doesn't show in checkout page"
+msgstr "আপনি যদি এটি সক্ষম করেন, মিনি কার্ট চেকআউট পৃষ্ঠায় দেখায় না৷"
+
+msgid "if you enabled it, the mini cart doesn't show when the cart is empty"
+msgstr "আপনি যদি এটি সক্ষম করেন, কার্টটি খালি থাকলে মিনি কার্টটি দেখায় না৷"
+
+msgid ""
+"if you enabled it, the mini cart item container will display on each cart add"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন, মিনি কার্ট আইটেম ধারক প্রতিটি কার্ট যোগে প্রদর্শিত "
+"হবে"
+
+msgid ""
+"if you enabled it, the mini cart will display if there any product removed "
+"from cart"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন, কার্ট থেকে কোনো পণ্য সরানো থাকলে মিনি কার্ট "
+"প্রদর্শন করবে"
+
+msgid "if you enabled it, then circle counter of the top corner will be hide"
+msgstr ""
+"যদি আপনি এটি সক্ষম করেন, তাহলে উপরের কোণে বৃত্তের কাউন্টারটি লুকিয়ে রাখা হবে"
+
+msgid ""
+"if you enabled it, then discount and cart total will be displayed into cart"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন, তাহলে ছাড় এবং কার্টের মোট কার্টে প্রদর্শিত হবে"
+
+msgid "if you enabled it, then dynamic discount rule will be applied in cart"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন, তাহলে কার্টে গতিশীল ডিসকাউন্ট নিয়ম প্রয়োগ করা হবে৷"
+
+msgid ""
+"if you enabled it, then dynamic discount will be disabled when a buyer added "
+"coupon code in cart"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন, তাহলে একজন ক্রেতা কার্টে কুপন কোড যোগ করলে গতিশীল "
+"ডিসকাউন্ট নিষ্ক্রিয় হয়ে যাবে"
+
+msgid ""
+"if you enabled it, then shipping total, total fee, total tax will be "
+"displayed into cart"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন, তাহলে শিপিং মোট, মোট ফি, মোট ট্যাক্স কার্টে "
+"প্রদর্শিত হবে"
+
+msgid "if you enabled it, then WooCommerce add message will not be shown"
+msgstr "যদি আপনি এটি সক্ষম করেন, তাহলে ওয়ার্ডপ্রেস অ্যাড মেসেজ দেখানো হবে না"
+
+msgid ""
+"if you enabled it, View full cart button will be displayed into cart footer"
+msgstr ""
+"আপনি যদি এটি সক্ষম করেন, তাহলে সম্পূর্ণ কার্ট বোতামটি কার্ট ফুটারে প্রদর্শিত "
+"হবে"
+
+msgid "Inactive"
+msgstr "নিষ্ক্রিয়"
+
+msgid "Install"
+msgstr "ইনস্টল করুন"
+
+msgid "Invalid"
+msgstr "অবৈধ"
+
+msgid "is for discount value"
+msgstr "ডিসকাউন্ট মান জন্য হয়"
+
+msgid ""
+"is for display calculated (target amount - current cart amount) amount value"
+msgstr ""
+"প্রদর্শনের জন্য গণনা করা হয় (লক্ষ্য পরিমাণ - বর্তমান কার্টের পরিমাণ) পরিমাণ "
+"মান"
+
+msgid ""
+"is for display calculated (target amount-current cart amount) amount value"
+msgstr ""
+"প্রদর্শনের জন্য গণনা করা (লক্ষ্য পরিমাণ-বর্তমান কার্টের পরিমাণ) পরিমাণ মান"
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr ""
+"এটির জন্য ওয়ার্ডপ্রেস প্রয়োজন, অনুগ্রহ করে প্রথমে ওয়ার্ডপ্রেস ইনস্টল করুন"
+
+msgid "It will show into cart empty text"
+msgstr "এটি কার্টে খালি টেক্সট দেখাবে"
+
+msgid "It will show into header as title in cart"
+msgstr "এটি কার্টে শিরোনাম হিসাবে হেডারে দেখাবে"
+
+msgid "It will show into the checkout button"
+msgstr "এটি চেকআউট বোতামে দেখাবে"
+
+msgid "item"
+msgstr "আইটেম"
+
+msgid "items"
+msgstr "আইটেম"
+
+msgid "Items empty"
+msgstr "আইটেম খালি"
+
+msgid "Left Bottom"
+msgstr "বাম নীচে"
+
+msgid "Left Margin"
+msgstr "বাম কিনারা"
+
+msgid "Left Middle"
+msgstr "বাম মধ্যম"
+
+msgid "Left Top"
+msgstr "বামদিকের উপরে"
+
+msgid "License code"
+msgstr "লাইসেন্স কোড"
+
+msgid "License Expired on"
+msgstr "লাইসেন্সের মেয়াদ শেষ"
+
+msgid "License Info"
+msgstr "লাইসেন্স তথ্য"
+
+msgid "License Status"
+msgstr "লাইসেন্স স্ট্যাটাস"
+
+msgid "License Type"
+msgstr "লাইসেন্সের ধরন"
+
+msgid "Loading Customizer..."
+msgstr "কাস্টমাইজার লোড হচ্ছে..."
+
+msgid "Loading Data..."
+msgstr "তথ্য প্রস্তুত হচ্ছে..."
+
+msgid "Loading License Info..."
+msgstr "লাইসেন্সের তথ্য লোড হচ্ছে..."
+
+msgid "Loading Rule Details"
+msgstr "নিয়মের বিবরণ লোড হচ্ছে"
+
+msgid "Loading Settings"
+msgstr "সেটিংস লোড হচ্ছে"
+
+msgid "Menu Counter Type"
+msgstr "মেনু কাউন্টার প্রকার"
+
+msgid "Menu Icon"
+msgstr "মেনু আইকন"
+
+msgid "Menu Title"
+msgstr "মেনু শিরোনাম"
+
+msgid "Message in Mini Cart Settings"
+msgstr "মিনি কার্ট সেটিংসে বার্তা"
+
+msgid ""
+"Message will be display when the target amount is greater then or equal "
+"$%{name}"
+msgstr "লক্ষ্য পরিমাণ $%{নাম} এর চেয়ে বেশি হলে বার্তা প্রদর্শিত হবে"
+
+msgid "Mini Cart"
+msgstr "মিনি কার্ট"
+
+msgid "Mini Cart Drawer Pro For WooCommerce"
+msgstr "ওয়ার্ডপ্রেস এর জন্য মিনি কার্ট ড্রয়ার প্রো"
+
+msgid "Missing dependency"
+msgstr "অনুপস্থিত নির্ভরতা"
+
+msgid "No"
+msgstr "না"
+
+msgid "No change for update"
+msgstr "আপডেটের জন্য কোন পরিবর্তন নেই"
+
+msgid "No offline outlet and counter found"
+msgstr "কোনো অফলাইন আউটলেট এবং কাউন্টার পাওয়া যায়নি"
+
+msgid "No rule added"
+msgstr "কোন নিয়ম যোগ করা হয়নি"
+
+msgid "Nonce error"
+msgstr "কোন ত্রুটি"
+
+msgid "Offer Type"
+msgstr "অফার টাইপ"
+
+msgid "Open Customizer"
+msgstr "কাস্টমাইজার খুলুন"
+
+msgid "Order already in completed status, it is not cancelable"
+msgstr "অর্ডার ইতিমধ্যেই সম্পূর্ণ অবস্থায় আছে, এটি বাতিলযোগ্য নয়"
+
+msgid "Order cancellation is not possible"
+msgstr "অর্ডার বাতিল করা সম্ভব নয়"
+
+msgid "Order not found"
+msgstr "অর্ডার পাওয়া যায়নি"
+
+msgid "Order requires payment process"
+msgstr "অর্ডার পেমেন্ট প্রক্রিয়া প্রয়োজন"
+
+msgid "Order successfully completed"
+msgstr "অর্ডার সফলভাবে সম্পন্ন হয়েছে"
+
+msgid "Order successfully sent to kitchen"
+msgstr "অর্ডার সফলভাবে রান্নাঘরে পাঠানো হয়েছে"
+
+msgid "Paid amount must be greater or equal to grand total amount"
+msgstr "প্রদত্ত পরিমাণ অবশ্যই মোট পরিমাণের বেশি বা সমান হতে হবে"
+
+msgid "Payment data missing"
+msgstr "পেমেন্ট ডেটা অনুপস্থিত"
+
+msgid "Percentage %"
+msgstr "শতাংশ %"
+
+msgid "Placeholder"
+msgstr "স্থানধারক"
+
+msgid "Please"
+msgstr "অনুগ্রহ"
+
+msgid "Position"
+msgstr "অবস্থান"
+
+msgid "Pro Version"
+msgstr "প্রো সংস্করণ"
+
+msgid "Product is not purchasable"
+msgstr "পণ্য ক্রয়যোগ্য নয়"
+
+msgid "Progressbar Background"
+msgstr "প্রগ্রেসবার ব্যাকগ্রাউন্ড"
+
+msgid "quantities"
+msgstr "পরিমাণ"
+
+msgid "quantity"
+msgstr "পরিমাণ"
+
+msgid "Recommended"
+msgstr "প্রস্তাবিত"
+
+msgid "Reload"
+msgstr "পুনরায় লোড করুন"
+
+msgid "Removed"
+msgstr "সরানো হয়েছে"
+
+msgid "Right Bottom"
+msgstr "ডান নীচে"
+
+msgid "Right Margin"
+msgstr "ডান মার্জিন"
+
+msgid "Right Middle"
+msgstr "ডান মধ্যম"
+
+msgid "Right Top"
+msgstr "ডান শীর্ষ"
+
+msgid "Role does not exists"
+msgstr "ভূমিকা বিদ্যমান নেই"
+
+msgid "Sale Booster"
+msgstr "বিক্রয় বুস্টার"
+
+msgid "Save"
+msgstr "সংরক্ষণ"
+
+msgid "Save Custom CSS"
+msgstr "কাস্টম সিএসএস সংরক্ষণ করুন"
+
+msgid "Save Hide Pages"
+msgstr "পাতা লুকান সংরক্ষণ করুন"
+
+msgid "Saved Successfully"
+msgstr "সফলভাবে সংরক্ষিত"
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "Shadow Opacity"
+msgstr "ছায়া অস্বচ্ছতা"
+
+msgid "Shortcodes and other information"
+msgstr "শর্টকোড এবং অন্যান্য তথ্য"
+
+msgid "Show All Fees"
+msgstr "সমস্ত ফি দেখান"
+
+msgid "Show Coupon Input"
+msgstr "কুপন ইনপুট দেখান"
+
+msgid "Show Discount and Cart Total"
+msgstr "ডিসকাউন্ট এবং কার্ট মোট দেখান"
+
+msgid "Show Discount Bar In Site"
+msgstr "সাইটে ডিসকাউন্ট বার দেখান"
+
+msgid "Show Icon Only"
+msgstr "শুধুমাত্র আইকন দেখান"
+
+msgid "Show in Mini Cart"
+msgstr "মিনি কার্টে দেখান"
+
+msgid "Show Item Counter With Menu"
+msgstr "মেনু সহ আইটেম কাউন্টার দেখান"
+
+msgid "Size"
+msgstr "আকার"
+
+msgid "Skin Type"
+msgstr "ত্বকের ধরন"
+
+msgid "Status"
+msgstr "স্ট্যাটাস"
+
+msgid "status"
+msgstr "অবস্থা"
+
+msgid "Stripe configuration error in server"
+msgstr "সার্ভারে স্ট্রাইপ কনফিগারেশন ত্রুটি৷"
+
+msgid "Sub Total"
+msgstr "উপ মোট"
+
+msgid "Subscribe"
+msgstr "সাবস্ক্রাইব"
+
+msgid "Successfully removed"
+msgstr "সফলভাবে সরানো হয়েছে৷"
+
+msgid "Successfully updated"
+msgstr "সফলভাবে আপডেট"
+
+msgid "Support Expired on"
+msgstr "সমর্থনের মেয়াদ শেষ হয়েছে"
+
+msgid "Target Amount"
+msgstr "লক্ষ্য পরিমাণ"
+
+msgid ""
+"Target cart amount, if the cart amount greater then or equals to this amount "
+"then buyer will get offer."
+msgstr ""
+"টার্গেট কার্টের পরিমাণ, যদি কার্টের পরিমাণ বেশি বা এই পরিমাণের সমান হয় "
+"তাহলে ক্রেতা অফার পাবেন।"
+
+msgid "Text Color"
+msgstr "লেখার রঙ"
+
+msgid ""
+"The Best Support Ticketing Software For Your Business! Best Support System, "
+"Best by name, Best by nature, Best by feature, it is a self-hosted customer "
+"support desk software. It handles support tickets, manages email tickets, "
+"collects any payment by PayPal."
+msgstr ""
+"আপনার ব্যবসার জন্য সেরা সমর্থন টিকিট সফ্টওয়্যার! সেরা সাপোর্ট সিস্টেম, নাম "
+"অনুসারে সেরা, প্রকৃতি অনুসারে সেরা, বৈশিষ্ট্য অনুসারে সেরা, এটি একটি স্ব-"
+"হোস্টেড গ্রাহক সহায়তা ডেস্ক সফ্টওয়্যার। এটি সমর্থন টিকিট পরিচালনা করে, "
+"ইমেল টিকিট পরিচালনা করে, পেপ্যাল ​​দ্বারা যেকোন অর্থ প্রদান করে।"
+
+msgid "This email already exist"
+msgstr "এই ইমেলটি ইতিমধ্যেই বিদ্যমান"
+
+msgid "This mobile number is already exist"
+msgstr "এই মোবাইল নম্বরটি আগে থেকেই আছে"
+
+msgid "This module is available in pro version"
+msgstr "এই মডিউলটি প্রো সংস্করণে উপলব্ধ"
+
+msgid "This username already exist"
+msgstr "এই ব্যবহারকারীর নাম ইতিমধ্যেই বিদ্যমান৷"
+
+msgid "Title Text"
+msgstr "শিরোনাম পাঠ্য"
+
+msgid "to add new menu"
+msgstr "নতুন মেনু যোগ করতে"
+
+msgid "To get shortcode or other information, please click the button below"
+msgstr "শর্টকোড বা অন্যান্য তথ্য পেতে, অনুগ্রহ করে নীচের বোতামে ক্লিক করুন"
+
+msgid "to know the details about the product"
+msgstr "পণ্য সম্পর্কে বিস্তারিত জানতে"
+
+msgid "To unlock these features, you need"
+msgstr "এই বৈশিষ্ট্যগুলি আনলক করতে, আপনার প্রয়োজন"
+
+msgid "Top"
+msgstr "শীর্ষ"
+
+msgid "TOTAL AMOUNT"
+msgstr "সর্বমোট পরিমাণ"
+
+msgid "Total Item"
+msgstr "মোট আইটেম"
+
+msgid "TOTAL ITEMS"
+msgstr "মোট আইটেম"
+
+msgid "TOTAL QUANTITIES"
+msgstr "মোট পরিমাণ"
+
+msgid "Total Quantity"
+msgstr "মোট পরিমাণ"
+
+msgid "Total Video(s)"
+msgstr "মোট ভিডিও"
+
+msgid "Type"
+msgstr "টাইপ"
+
+msgid "Undo"
+msgstr "পূর্বাবস্থায় ফেরান"
+
+msgid "Undo Remove Panel"
+msgstr "পূর্বাবস্থায় প্যানেল সরান"
+
+msgid "Unknown Error"
+msgstr "অজানা ত্রুটি"
+
+msgid "Unknown error"
+msgstr "অজানা ত্রুটি"
+
+msgid "Unknown error-393"
+msgstr "অজানা ত্রুটি-393"
+
+msgid "Unlock"
+msgstr "আনলক করুন"
+
+msgid "Unlock it"
+msgstr "এটি আনলক করুন"
+
+msgid "User privilege error"
+msgstr "ব্যবহারকারীর বিশেষাধিকার ত্রুটি"
+
+msgid "Username already exist"
+msgstr "ব্যবহারকারীর নাম ইতিমধ্যে বিদ্যমান"
+
+msgid "Username already exist."
+msgstr "ব্যবহারকারীর নাম ইতিমধ্যে বিদ্যমান."
+
+msgid "Valid"
+msgstr "বৈধ"
+
+msgid "Version"
+msgstr "সংস্করণ"
+
+msgid "Video"
+msgstr "ভিডিও"
+
+msgid "Videos"
+msgstr "ভিডিও"
+
+msgid "view amount is required"
+msgstr "দেখার পরিমাণ প্রয়োজন"
+
+msgid "View Details"
+msgstr "বিস্তারিত দেখুন"
+
+msgid "View Info"
+msgstr "তথ্য দেখুন"
+
+msgid ""
+"Vitepos is a very fast and reliable point of sale (POS) plugin, Its fully "
+"responsive (mobile, tablet, laptop,desktop,large screen). It has been "
+"developed very latest technology also followed woocommerce development code "
+"standard."
+msgstr ""
+"Vitepos একটি খুব দ্রুত এবং নির্ভরযোগ্য বিক্রয় কেন্দ্র (POS) প্লাগইন, এটি "
+"সম্পূর্ণরূপে প্রতিক্রিয়াশীল (মোবাইল, ট্যাবলেট, ল্যাপটপ, ডেস্কটপ, বড় "
+"স্ক্রীন)। এটি খুব সর্বশেষ প্রযুক্তিও উওকমার্স ডেভেলপমেন্ট কোড স্ট্যান্ডার্ড "
+"অনুসরণ করে তৈরি করা হয়েছে।"
+
+msgid ""
+"When the message display on the screen, Message like, Spend more xx amount "
+"to get xx discount, It must be lower then target amount ."
+msgstr ""
+"স্ক্রীনে মেসেজ দেখালে, মেসেজ লাইক, xx ডিসকাউন্ট পেতে আরও xx পরিমাণ আপনার "
+"অ্যান্ড্রয়েড করুন, তা লক্ষ্যমাত্রার পরিমাণের চেয়ে কম হতে হবে।"
+
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+msgid ""
+"You can attract your customers to purchase more items by offering many "
+"dynamic discounts, you can offer to your customer like, if you spend 20USD, "
+"then you will get 2USD discount."
+msgstr ""
+"আপনি অনেক গতিশীল ডিসকাউন্ট অফার করে আপনার গ্রাহকদের আরও আইটেম কেনার জন্য "
+"আকৃষ্ট করতে পারেন, আপনি আপনার গ্রাহককে অফার করতে পারেন যেমন, আপনি যদি 20USD "
+"খরচ করেন, তাহলে আপনি 2USD ছাড় পাবেন।"
+
+msgid "You can choose page where you want to hide the cart button"
+msgstr "আপনি কার্ট বোতামটি লুকাতে চান এমন পৃষ্ঠা বেছে নিতে পারেন"
+
+msgid ""
+"You can easily configure this using customizer, Click the button below to "
+"customize"
+msgstr ""
+"আপনি কাস্টমাইজার ব্যবহার করে এটি সহজেই কনফিগার করতে পারেন, কাস্টমাইজ করতে "
+"নীচের বোতামে ক্লিক করুন"
+
+msgid "You can not checkout this in current status"
+msgstr "আপনি বর্তমান স্থিতিতে এটি চেকআউট করতে পারবেন না"
+
+msgid "You can not give this much discount"
+msgstr "আপনি এত ডিসকাউন্ট দিতে পারেন না"
+
+msgid "You can not order less than 0 amount"
+msgstr "আপনি 0 পরিমাণের কম অর্ডার করতে পারবেন না"
+
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "আপনি আপনার কার্টে অন্য \"%s\" যোগ করতে পারবেন না।"
+
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+"আপনি কার্টে সেই পরিমাণ \"%1$s\" যোগ করতে পারবেন না কারণ পর্যাপ্ত স্টক নেই "
+"(%2$s অবশিষ্ট)।"
+
+msgid "You do not have permission to give discount"
+msgstr "আপনি ছাড় দিতে অনুমতি নেই"
+
+msgid "You do not have permission to have fees"
+msgstr "আপনি ফি আছে অনুমতি নেই"
+
+msgid "You will get premium support"
+msgstr "আপনি প্রিমিয়াম সমর্থন পাবেন"
+
+msgid "You will get the wonderful Module called"
+msgstr "আপনি চমৎকার মডিউল পাবেন যাকে বলে"
+
+msgid "You will get these features in pro version"
+msgstr "আপনি এই বৈশিষ্ট্যগুলি প্রো সংস্করণে পাবেন"
+
+msgid "Your License Key"
+msgstr "আপনার লাইসেন্স কী"

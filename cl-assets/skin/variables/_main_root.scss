@@ -1,0 +1,92 @@
+@import "variables";
+//@import "color_root";
+&{
+    // colors
+    --apbd-nmca-main-color:#{$main_color};
+    --apbd-nmca-main-color-light:#{$main_color_light};
+    --apbd-nmca-black:#{$color_black} ;
+
+    --apbd-nmca-border-color:#{$border_color};
+    --apbd-nmca-title-text-color:#{$base-text-color};
+    --apbd-nmca-base-text-color:#{$base-text-color};
+
+    --apbd-nmca-total-item-background-color:#{$total_item_background_color};
+    --apbd-nmca-undo-msg-box-bg:#{rgba($undo_message_box_bg,.30)};
+    --apbd-nmca-total-item-text-color:#{$total_item_text_color};
+    --apbd-nmca-progressbar-background:#{rgba($main_color,.33)};
+    --apbd-nmca-btn-hover-color:#{$btn_hover_color};
+    --apbd-nmca-undo-btn-color:#{$undo_confirm_button_color};
+    --apbd-nmca-undo-cancel-btn-color:#{$undo_cancel_button_color};
+    --apbd-nmca-btn-background-color:#{$btn_background_color};
+
+    --apbd-nmca-response-msg-ctr-bg:#{rgba($main_color,.16)};
+    --apbd-nmca-response-msg-ctr-color:#{rgba($main_color,.99)};
+
+
+
+    //font size and color
+    --apbd-nmca-font-size:15px;
+    --apbd-nmca-sm-fs:12px;
+    --apbd-nmca-padding:20px;
+    --apbd-nmca-vt-cart-panel-width:450px;
+    --apbd-nmca-vt-cart-header-h:80px;
+    --apbd-nmca-vt-cart-panel-bg: #f5f6fa;
+    --apbd-nmca-vt-cart-header-left-color: #4b5563;
+    --apbd-nmca-vt-cart-header-right-color: #8894a5;
+    --apbd-nmca-vt-global-border: #ede7f6;
+    --apbd-nmca-vt-menu-font-color: #fff;
+    --apbd-nmca-vt-cart-footer-border-radius: 15px;
+    --apbd-nmca-vt-theme-btn-font-color: #fff;
+    --apbd-nmca-error-smg-color: rgba(255, 65, 62, 0.97);
+    --apbd-nmca-vt-cart-item-font-color: #4b5563;
+    --apbd-nmca-vt-card-panel-item-hvr-color: rgba(255,0,0,0.33);
+    --apbd-nmca-vt-card-bs: 0px 5px 4px 1px var(--bs-gray-300);
+    --apbd-nmca-vt-img-bs: 0px -1px 20px 3px rgb(0 0 0 / 44%);
+    --apbd-nmca-vt-card-text-color: rgba(78, 78, 78, 0.85);
+    --apbd-nmca-vt-btn-disable-color:#{lighten($main_color,35%)};
+    --apbd-nmca-vt-msg-ctr-border-color:#{lighten($main_color,35%)};
+    --apbd-nmca-vt-undo-msg-box-shadow-color:#{lighten($main_color,30%)};
+    --apbd-nmca-vt-undo-msg-box-border-color:#{lighten($main_color,25%)};
+
+    // Cart Icon Properties
+    --apbd-nmca-opener-width:80px;
+    --apbd-nmca-opener-icon-h:62px;
+    --apbd-nmca-opener-br:5px;
+    --apbd-nmca-opener-icon-fs:35px;
+
+
+    // floating cart styles
+    --apbd-nmca-fl-width:65px;
+    --apbd-nmca-fl-icon-size:25px;
+    --apbd-nmca-fl-height:65px;
+    --apbd-nmca-fl-br:50%;
+    --apbd-nmca-fl-bm: 50px;
+    --apbd-nmca-fl-lm: 50px;
+
+    --apbd-nmca-vt-btn-color:#{$vt-button-color};
+    --apbd-nmca-white-color:#{$color_white};
+    --apbd-nmca-vt-main-color:#{$main_color};
+    --vitepos-main-dark:#{$main_color_dark};
+    --apbd-nmca-df-btn-color:#{$df-btn-color};
+    --apbd-nmca-df-btn-hover-color:#{$df-btn-hover-color};
+
+
+    //message button
+    --apbd-nmca-vt-msg-color: inherit;
+    --apbd-nmca-vt-msg-bg-color: transparent;
+    --apbd-nmca-vt-msg-bg-fw: normal;
+
+    --apbd-nmca-vt-cart-item-border-color: #{$vt-cart-item-border-color};
+    --apbd-nmca-vt-cart-item-hover-border-color: #{$vt-cart-item-hover-border-color};
+    --apbd-nmca-vt-card-shadow-color:#{$vt-card-shadow-color};
+    --apbd-nmca-vt-footer-bs: 0 -3px 30px -18px var(--vitepos-main-dark);
+
+    // error message container
+    --apbd-nmca-error-msg-ctr-bg:#{$error-msg-bg};
+    --apbd-nmca-error-msg-txt-color:#{$error-txt-color};
+    --apbd-nmca-error-msg-close-btn-bg:#{$error-close-btn-bg};
+    --apbd-nmca-error-msg-close-btn-hover-border:#{$error-close-btn-hover-border-color};
+    --apbd-nmca-error-msg-close-btn-txt-color:#{$error-close-btn-txt-color};
+
+
+}

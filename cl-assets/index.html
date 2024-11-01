@@ -1,0 +1,101 @@
+<!doctype html><html lang=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="mini-cart.png"><link href="skin/all.css" rel="stylesheet" media="all"><link href="font.css" rel="stylesheet"><title>client_panel</title><script>var apbd_test = {
+            pos: 'test'
+        }
+
+        var apbd_nmca = {
+            ajax_url: "wp-admin/admin-ajax.php?_t=1",
+            ajax_nōnce: "s",//ajax_nōnce  ajax_nonce
+            price_format: {
+                decimal_separator: '.',
+                thousand_separator: ',',
+                decimals: 2,
+                format: '${{amt}}',
+                symbol: '$',
+                currency_pos: 'left',
+            },
+            admin_data: {
+
+                button_setting: {
+                    icon: 'ap-cart',
+                    df_type: 'TQ',
+                    amount_type: 'C',
+                    hide_corner_circle: false,
+                    circle_type: 'Q',
+                    ani_in: 'ape-slideInRight',
+                    ani_out: 'ape-slideOutRight',
+                    control_size: 80 + 'px',
+                    control_icon_size: 50 + 'px',
+                    border_radius: 50 + '%',
+                    bottom_margin: 30 + 'px',
+                    left_margin: 30 + 'px',
+                    shadow_opacity: 35,
+                },
+                item_setting: {
+                    title_text: 'My Cart',
+                    empty_text: 'your cart is Empty',
+                    is_undo_remove: true,
+                    is_checkout_btn: true,
+                    is_cart_btn: true,
+                    is_show_cpn: true,
+                    is_show_acpn: true,
+                    is_show_dis_total: true,
+                    is_show_all_fee: true,
+                    cart_btn_text: 'View Full Cart',
+                    cart_btn_link: '',
+                    checkout_btn_text: 'Checkout',
+                    checkout_btn_link: '',
+                    empty_cart_icon: 'ap-empty-cart-2',
+                    cart_container_height: 100 + 'vh',
+                    cart_container_width: 350 + 'px',
+                    cart_border_radius: 15 + 'px',
+                    cart_shadow_opacity: 35
+                },
+                general_setting: {
+                    color: 'red',
+                    has_coupon: true,
+                    is_responsive: true,
+                    skin: 'apbd-nmca-skin-vt',
+                    drawer_type: 'F',
+                    position: 'LB',
+                    hide_in_cart: false,
+                    hide_in_checkout: false,
+
+                },
+                discount: {
+                    show_in_mini_cart: true,
+                    position: 'top',
+                },
+                sale_booster: {
+                    is_enable: true,
+                    is_custom_color: true,
+                    pb_complete_color: '',
+                    pb_bg_color: undefined,
+                    bg_color: undefined,
+                    text_color: '',
+                    position: 'top',
+                }
+            },
+            labels: {
+                'have_a_coupon': 'Have a coupon?',
+                'back': 'Back',
+                'apply': 'Apply',
+                'item':'iitem',
+                'items':'iitems',
+                'quantities':'quantities',
+                'quantity':'quantity',
+                'enter_code':'enter_code',
+                'undo':'undo',
+                'no':'no'
+            }
+        }</script><script defer="defer" src="js/client-script.js"></script><link href="css/client-style.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but client_panel doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><span class="apbd-shortcode-counter apbd-shortcode-counter-Q">ddd</span> <span class="apbd-shortcode-counter apbd-shortcode-counter-I">ddd</span> <button onclick="window.mca_toggle()">Item Toggle</button> <button onclick="window.mca_close()">Item Close</button> <button onclick="window.mca_open()">Item Open</button><div id="apbd-mini-cart"></div><script>function remove_obj() {
+        document.getElementById("apbd-mini-cart").remove();
+        var newal = document.createElement('div');
+        newal.setAttribute("id", "apbd-mini-cart");
+        //document.body.appendChild(newal);
+        document.body.appendChild(newal);
+    }
+
+    function togglePos() {
+        window.apbd_nmca.admin_data.general_setting.position = window.apbd_nmca.admin_data.general_setting.position == 'RB' ? 'LB' : 'RB';
+        window.dispatchEvent(new Event('mca_settings_update'));
+    }</script></body></html>
